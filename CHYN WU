@@ -1,0 +1,5 @@
+rm -rf SPAMSHARE
+git clone https://github.com/Chyn/SPAMSHARE
+cd SPAMSHARE
+git pull
+python SPAMSHARE.py
